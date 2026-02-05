@@ -10,7 +10,7 @@ function Header({ dias }) {
   }
 
   function irParaHome() {
-    navigate("/home");
+    navigate("/");
   }
 
   return (
