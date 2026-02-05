@@ -7,7 +7,7 @@ import Graficos from "./Graficos.jsx";
 
 const router = createBrowserRouter([
   {
-    path: "/home",
+    path: "/",
     element: <App />,
   },
   {
