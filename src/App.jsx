@@ -5,7 +5,7 @@ import { v4 } from "uuid";
 import Habitos from "./components/Habitos";
 import Month from "./components/Month";
 import AddHabit from "./components/AddHabit";
-import ButtonAdicionar from "./components/buttonAdicionar";
+import ButtonAdicionar from "./components/ButtonAdicionar";
 import ConfirmationScreen from "./components/ConfirmationScreen";
 
 function App() {
